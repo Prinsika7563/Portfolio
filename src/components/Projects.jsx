@@ -27,7 +27,6 @@ const Projects = () => {
                 <button className='mt-4 bg-yellow-600 px-4 py-2 rounded-lg'>
                     view project
                 </button>
-
             </div>
             ))}
         </div>

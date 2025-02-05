@@ -11,7 +11,7 @@ const Contact = () => {
         Contact Me
       </h1>
       <div className=" h-full w-full flex justify-center p-10">
-        <form className="flex flex-col gap-4 w-full max-w-md border-2 rounded border-white shadow-md shadow-yellow-950 p-5 md:p-10">
+        <form netlify name="contact" className="flex flex-col gap-4 w-full max-w-md border-2 rounded border-white shadow-md shadow-yellow-950 p-5 md:p-10">
           <label className=" text-white" htmlFor="name">
             Name
           </label>
