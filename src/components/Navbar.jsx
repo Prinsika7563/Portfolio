@@ -29,7 +29,7 @@ const ContactIcons = () => {
 
       
       <a 
-      href="public/Prinsika(reaume1).pdf" title="resume"
+      href="/Prinsika(reaume1).pdf" title="resume"
       download
       target="_blank"
       rel="noopener noreferrer"
