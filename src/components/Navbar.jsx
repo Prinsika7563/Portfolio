@@ -29,7 +29,7 @@ const ContactIcons = () => {
 
       
       <a 
-      href="public/Prinsika(reaume1).pdf" title="resume"
+      href="https://res.cloudinary.com/dzagjkjmb/image/upload/v1738743691/Prinsika_reaume1_ldzdoj.pdf" title="resume"
       download
       target="_blank"
       rel="noopener noreferrer"

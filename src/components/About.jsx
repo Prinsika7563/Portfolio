@@ -18,7 +18,7 @@ function About() {
           collaboration, I strive to turn creative ideas into engaging 
           experiences.
         </p>
-        <img className=" h-80 w-80 shadow-xl shadow-black scale-x-[-1] rounded-2xl" src="public/250130-P48MNV-852.jpg" alt="picture" />
+        <img className=" h-80 w-80 shadow-xl shadow-black scale-x-[-1] rounded-2xl" src="https://res.cloudinary.com/dzagjkjmb/image/upload/v1738743426/myzkdqtyfoua9ru6frja.jpg" alt="picture" />
          
       </div>
     </div>
