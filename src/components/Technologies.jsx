@@ -34,7 +34,7 @@ const Technologies = () => {
           {techStack.map((tech, index) => (
             <div
               key={index}
-              className="w-24 h-24 flex flex-col items-center justify-center text-center border-2 border-gray-500 rounded-lg transition-transform transform hover:scale-105 hover:border-yellow-400 duration-300 md:p-4"
+              className="w-24 h-24 flex flex-col items-center justify-center text-center border-2 border-gray-500 rounded-lg transition-transform transform hover:scale-105 hover:border-yellow-400  duration-300 md:p-4"
             >
               <div className="text-5xl">{tech.icon}</div>
               <p className="mt-2 text-lg font-semibold">{tech.name}</p>

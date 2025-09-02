@@ -8,7 +8,7 @@ function About() {
       </h2>
     
       <div className=" flex flex-col-reverse md:flex-row items-center justify-center md:h-screen md:w-screen p-10 gap-7 md:gap-24 ">
-        <p className="text-lg text-start font-serif w-full  max-w-2xl">
+        <p className="text-lg text-start font-serif w-full bg-bgyello p-4 rounded shadow-lg shadow-bgyello max-w-2xl">
           I am a Frontend Developer specializing in React.js, JavaScript,
           HTML, CSS, and Tailwind CSS. I focus on creating responsive,
           visually appealing, and user-friendly web applications with smooth

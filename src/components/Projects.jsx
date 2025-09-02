@@ -11,12 +11,12 @@ const Projects = () => {
 
         <div className='flex items-center h-full'>
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mt-10 lg:mt-0 gap-8'>
-            {/* example project card */}
+           
 
             {[1, 2, 3, 4, 5, 6].map((project, index) => (
             <div
              key={index}
-             className='w-80 h-60 bg-gray-900 rounded-lg shadow-lg p-5 flex flex-col justify-between transform transition-transform hover:scale-105'
+             className='w-80 h-60 bg-gray-900 rounded-lg hover:shadow-gray-800 shadow-lg p-5 flex flex-col justify-between transform transition-transform hover:scale-105'
              >
                 <h2 className='text-xl font-bold text-yellow-500'>
                     Project{index+1}
